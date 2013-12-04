@@ -98,5 +98,29 @@
 		<key>famousQuote</key>
 		<string>&quot;We think sometimes that poverty is only being hungry, naked and homeless. The poverty of being unwanted, unloved and uncared for is the greatest poverty. We must start in our own homes to remedy this kind of poverty.&quot;</string>
 	</dict>
+	<dict>
+		<key>personName</key>
+		<string>Author 1</string>
+		<key>famousQuote</key>
+		<string>&quot;Quote 1.&quot;</string>
+	</dict>
+    <dict>
+		<key>personName</key>
+		<string>Author 2</string>
+		<key>famousQuote</key>
+		<string>&quot;Quote 2.&quot;</string>
+	</dict>
+    <dict>
+		<key>personName</key>
+		<string>Author 3</string>
+		<key>famousQuote</key>
+		<string>&quot;Quote 3.&quot;</string>
+	</dict>
+    <dict>
+		<key>personName</key>
+		<string>Author 4</string>
+		<key>famousQuote</key>
+		<string>&quot;Quote 4.&quot;</string>
+	</dict>
 </array>
 </plist>
